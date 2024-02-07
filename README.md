@@ -10,9 +10,6 @@ Foodie is a website where you can find delicious recipes, cooking tips, and food
 
 [Foodie Website](https://iamchiranjeevir.github.io/Web-Projects/Foodie/)
 
-## Screenshots
-
-![Foodie Landing Page](screenshot.png)
 
 ## Usage
 
